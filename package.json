@@ -1,0 +1,19 @@
+{
+  "name": "contactslist",
+  "version": "1.0.0",
+  "description": "A simple Mean Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Badri Komma",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^10.0.5",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongojs": "^3.1.0",
+    "mongoose": "^5.9.28"
+  }
+}
